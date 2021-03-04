@@ -1,0 +1,10 @@
+D:\Chánh\QLBD\QLBD\bin\Debug\QLBD.exe.config
+D:\Chánh\QLBD\QLBD\bin\Debug\QLBD.exe
+D:\Chánh\QLBD\QLBD\bin\Debug\QLBD.pdb
+D:\Chánh\QLBD\QLBD\obj\Debug\QLBD.csprojAssemblyReference.cache
+D:\Chánh\QLBD\QLBD\obj\Debug\QLBD.Form1.resources
+D:\Chánh\QLBD\QLBD\obj\Debug\QLBD.Properties.Resources.resources
+D:\Chánh\QLBD\QLBD\obj\Debug\QLBD.csproj.GenerateResource.cache
+D:\Chánh\QLBD\QLBD\obj\Debug\QLBD.csproj.CoreCompileInputs.cache
+D:\Chánh\QLBD\QLBD\obj\Debug\QLBD.exe
+D:\Chánh\QLBD\QLBD\obj\Debug\QLBD.pdb
